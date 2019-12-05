@@ -1,3 +1,3 @@
-# hello-world
+# Hello, World!
 Because this coder is awesome...
 A newbie trying to code because his coder friend NYSlide brought him here.
